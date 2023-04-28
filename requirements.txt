@@ -1,4 +1,4 @@
-appdirs==1.4.3
+appdirs==1.4.4
 arrow==0.10.0
 decorator==4.0.10
 backports-abc==0.5
