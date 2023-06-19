@@ -1,6 +1,6 @@
 appdirs==1.4.4
 arrow==0.17.0
-decorator==4.4.2
+decorator==5.1.1
 backports-abc==0.5
 certifi==2017.11.5
 chardet==3.0.4
